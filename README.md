@@ -6,10 +6,19 @@
 <p align="center">
     <img alt="auto type" src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
 </p>
+
+<h3>✏️ About Me</h3>
+<p>After working in the construction field for the past few years, I took a step forward to pursue my dream of becoming a developer. I am a sociable, resilient, and responsible person who thrives while working in a team, and likes to continuously learn through experience and based on constructive feedback. Hoping this is just the   begining of this new journey!</p>
+<strong>Feel free to contact me at:</strong>
+
 <div align="center"> 
   <a href = "mailto:elidiane.asb@gmail.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/elidiane-bezerra" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>   
 </div>
+
+<h2 dir="auto"></h2>  
+<h3 align="left">💻 Languages and Tools:</h3>
+<p align="left"> 
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
