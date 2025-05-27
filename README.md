@@ -4,7 +4,7 @@
     <h1 align="center">I'm Eli :relaxed:</h1>
 </p>
 <p align="center">
-    <img alt="auto type" src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
+    <img alt="auto type" src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
 </p>
 
 <h3>✏️ About Me</h3>
