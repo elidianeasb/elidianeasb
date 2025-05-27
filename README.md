@@ -8,7 +8,7 @@
 </p>
 
 <h3>✏️ About Me</h3>
-<p>After working in the construction field for the past few years, I took a step forward to pursue my dream of becoming a developer. I am a sociable, resilient, and responsible person who thrives while working in a team and likes to continuously learn through experience and constructive feedback. I hope this is just the beginning of this new journey!</p>
+<p>After working in the construction field for the past few years, I took a step forward to pursue my dream of becoming a software engineer. I am a sociable, resilient, and responsible person who thrives while working in a team and likes to continuously learn through experience and constructive feedback. I hope this is just the beginning of this new journey!</p>
 <strong>Feel free to contact me at:</strong>
 
 <div align="center"> 
